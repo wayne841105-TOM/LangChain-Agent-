@@ -1,2 +1,3 @@
 # LangChain-Agent-
 基於langchain打造的簡易葉綠宿集團私有化助理
+將檔案轉移至自己的IDE然後創立虛擬機.VENV 並將自己的Gemini_API_KEY貼上至.ENV即可在IDE上使用
