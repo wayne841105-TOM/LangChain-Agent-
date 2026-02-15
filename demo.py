@@ -72,6 +72,7 @@ chain = (
     | client
     | StrOutputParser()
 )
-user_qusetion = "今天日期幾號"
+user_qusetion = "公司在做什麼的?"
 response  = chain.invoke(user_qusetion)
+
 print("AI回答:", response)
